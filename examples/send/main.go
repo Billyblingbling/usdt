@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/AdwindOne/usdt"
-	"github.com/AdwindOne/usdti/rpc"
+	"github.com/AdwindOne/usdt/rpc"
 	"log"
 	"fmt"
 )
